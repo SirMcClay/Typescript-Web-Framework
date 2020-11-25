@@ -1,24 +1,9 @@
 {
   "users": [
     {
-      "name": "myname",
+      "name": "my name",
       "age": "20",
       "id": 1
-    },
-    {
-      "name": "my name",
-      "age": "20",
-      "id": 2
-    },
-    {
-      "name": "my name",
-      "age": "20",
-      "id": 3
-    },
-    {
-      "name": "my name",
-      "age": "20",
-      "id": 4
     }
   ]
 }
