@@ -3,7 +3,6 @@ export class UserForm {
 
 	template(): string {
 		return `
-      return
         <div>
           <h1>User Form</h1>
           <input />
